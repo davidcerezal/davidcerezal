@@ -19,6 +19,6 @@ Apart from that, I have other project in which I sometimes write:
 
 You can find me here:
 
-- 📩 [mailto:cerezal.david@gmail.com](mailto:cerezal.david@gmail.com)
-- 🧬 [My Bio] (https://davidcerezal.github.io/about/)
-- 🏢 [LinkedIn] (https://www.linkedin.com/in/davidcerezal/)
+- 📩 [cerezal.david@gmail.com](mailto:cerezal.david@gmail.com)
+- 🧬 [My Bio](https://davidcerezal.github.io/about/)
+- 🏢 [LinkedIn](https://www.linkedin.com/in/davidcerezal/)
