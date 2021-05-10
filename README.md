@@ -11,7 +11,7 @@ Here are some of my I.T. projects:
 - 🤖 [Instagram's bot](https://github.com/davidcerezal/instabot)
 - 📷 [AWS photo OCR](https://github.com/davidcerezal/flask_aws_textextract)
 - ⚡ [Energy price predictor](https://github.com/davidcerezal/energy-price-predictor)
-- 📖 my [personal blog](https://github.com/davidcerezal/davidcerezal.github.io) check it out on [DavidCerezal](https://davidcerezal.github.io/)
+- 📖 My [personal blog](https://github.com/davidcerezal/davidcerezal.github.io) check it out on [DavidCerezal](https://davidcerezal.github.io/)
 
 Apart from that, I have other project in which I sometimes write:
 
