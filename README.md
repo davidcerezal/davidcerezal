@@ -3,7 +3,7 @@
 </p>
 
 
-[![Author: David](https://img.shields.io/badge/👋-Kaixo!-gggddd.svg)], a software engineer living in Madrid, España. Since some years, I have set myself goals such as creating new projects, go in-depth in the spirit of the entrepreneur and be in constant development. For now I have a lot to learn, and I hope that it will always continue; while I am trying to get these goals I work as BackEnd Developer and manage a small team in [✨Indexa Capital✨](https://indexacapital.com/es/esp/), in which I learn from the bests (both in development and in team management). In the spare time I have left, I keep projects of photography and writing (@pic.dave), and some friends projects in which I try with new technologies (React). I also move in the exciting world of AI (master in machine learning) that I hope will help me achieve the goal of creating new projects that make a significant change, that have a reason and not just an economic purpose.
+[![Author: David](https://img.shields.io/badge/👋-Kaixo!-gggddd.svg)], a software engineer living in Madrid, España. Since some years, I have set myself goals such as creating new projects, go in-depth in the spirit of the entrepreneur and be in constant development. For now I have a lot to learn, and I hope that it will always continue; while I am trying to get these goals I work as BackEnd Developer and manage a small team in [✨Indexa Capital✨](https://indexacapital.com/es/esp/), in which I learn from the bests (both in development and in team management). In the spare time I have left, I keep projects of photography and writing ([@pic.dave](https://www.instagram.com/pic.dave/)), and some friends projects in which I try with new technologies (React). I also move in the exciting world of AI (master in machine learning) that I hope will help me achieve the goal of creating new projects that make a significant change, that have a reason and not just an economic purpose.
 
 Here are some of my I.T. projects:
 
@@ -15,7 +15,7 @@ Here are some of my I.T. projects:
 
 Apart from that, I have other project in which I sometimes write:
 
-- ✍️ [Cerecea](https://cerecea.github.io/) where I write as [pic.dave](https://www.instagram.com/pic.dave/)
+- ✍️ [Cerecea](https://cerecea.github.io/) where I write as [@pic.dave](https://www.instagram.com/pic.dave/)
 - 📖 [Personal Blog](https://davidcerezal.github.io/) where I write for myself.
 - 👨🏻‍💻 [JXtattoo](https://jxtattoo.github.io/) where I try with React and also help a friend.
 
