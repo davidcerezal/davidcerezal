@@ -15,9 +15,9 @@ Here are some of my I.T. projects:
 
 Apart from that, I have other project in which I sometimes write:
 
-- ✍️ [Cerecea](https://github.com/cerecea/cerecea.github.io) where I write as [pic.dave](https://www.instagram.com/pic.dave/)
+- ✍️ [Cerecea](https://cerecea.github.io/) where I write as [pic.dave](https://www.instagram.com/pic.dave/)
 - 📖 [Personal Blog](https://davidcerezal.github.io/) where I write for myself.
-- 👨🏻‍💻 [JXtattoo](https://github.com/jxtattoo/jxtattoo.github.io) where I try with React and also help a [friend](https://jxtattoo.github.io/).
+- 👨🏻‍💻 [JXtattoo](https://jxtattoo.github.io/) where I try with React and also help a friend.
 
 
 You can contact me by email cerezal.david@gmail.com, other options:
