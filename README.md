@@ -12,6 +12,7 @@ Here are some of my I.T. projects:
 - 🤖 [Instagram's bot](https://github.com/davidcerezal/instabot)
 - 📷 [AWS photo OCR](https://github.com/davidcerezal/flask_aws_textextract)
 - ⚡ [Energy price predictor](https://github.com/davidcerezal/energy-price-predictor)
+- 🗺️ [Spain D3 map](https://github.com/davidcerezal/spain-d3-map)
 
 Apart from that, I have other project in which I sometimes write:
 
