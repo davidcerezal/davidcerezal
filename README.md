@@ -28,4 +28,3 @@ You can contact me by email cerezal.david@gmail.com, other options:
 <a href="https://davidcerezal.github.io/"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Blog&logo=wordpress&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>
 <a href="https://davidcerezal.github.io/assets/archives/David_Cerezal_En.pdf"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=CV&logo=r&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a></p>
   
-  ![David's github stats](https://github-readme-stats.vercel.app/api?username=davidcerezal&count_private=true&show_icons=true&hide=contribs,prs&theme=merko)
